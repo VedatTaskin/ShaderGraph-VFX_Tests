@@ -1604,9 +1604,9 @@
     "m_Guid": {
         "m_GuidSerialized": "a586e178-e973-4d47-a7d8-6a83764bba70"
     },
-    "m_Name": "_Smoothness",
+    "m_Name": "Smoothness",
     "m_DefaultReferenceName": "Vector1_20d0977e221744e49108b8c818309016",
-    "m_OverrideReferenceName": "",
+    "m_OverrideReferenceName": "_Smoothness",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
     "overrideHLSLDeclaration": false,
@@ -2269,9 +2269,9 @@
     "m_Guid": {
         "m_GuidSerialized": "92ecb284-f183-4674-9c42-4e29e0c5968f"
     },
-    "m_Name": "_LowDepthColor",
+    "m_Name": "LowDepthColor",
     "m_DefaultReferenceName": "Color_48ee8d2eca6042829e86b3a1a619412b",
-    "m_OverrideReferenceName": "",
+    "m_OverrideReferenceName": "_LowDepthColor",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
     "overrideHLSLDeclaration": false,
@@ -2474,9 +2474,9 @@
     "m_Guid": {
         "m_GuidSerialized": "eedb7021-dcc5-46b0-87b1-4834844a4927"
     },
-    "m_Name": "_Depth",
+    "m_Name": "Depth",
     "m_DefaultReferenceName": "Vector1_52c4b1c69efb4749b89b56b0feedb72e",
-    "m_OverrideReferenceName": "",
+    "m_OverrideReferenceName": "_Depth",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
     "overrideHLSLDeclaration": false,
@@ -3056,9 +3056,9 @@
     "m_Guid": {
         "m_GuidSerialized": "a719456e-97c9-4d7e-a48b-7422f853be80"
     },
-    "m_Name": "_FirstNormal",
+    "m_Name": "FirstNormal",
     "m_DefaultReferenceName": "Texture2D_72fe188158204c5198ff24187c28d9dc",
-    "m_OverrideReferenceName": "",
+    "m_OverrideReferenceName": "_FirstNormal",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
     "overrideHLSLDeclaration": false,
@@ -3955,9 +3955,9 @@
     "m_Guid": {
         "m_GuidSerialized": "067b3c14-e5f6-439f-af47-9b0623b9c603"
     },
-    "m_Name": "_NormalStrength",
+    "m_Name": "NormalStrength",
     "m_DefaultReferenceName": "Vector1_a0283a8e559a4242b192617df43da4fe",
-    "m_OverrideReferenceName": "",
+    "m_OverrideReferenceName": "_NormalStrength",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
     "overrideHLSLDeclaration": false,
@@ -4067,9 +4067,9 @@
     "m_Guid": {
         "m_GuidSerialized": "7d9ed2d3-9742-45fe-a59c-419068b56c7a"
     },
-    "m_Name": "_WaveHeight",
+    "m_Name": "WaveHeight",
     "m_DefaultReferenceName": "Vector1_a8db1442ff7640cdb7757d78c29e6e5f",
-    "m_OverrideReferenceName": "",
+    "m_OverrideReferenceName": "_WaveHeight",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
     "overrideHLSLDeclaration": false,
@@ -4199,9 +4199,9 @@
     "m_Guid": {
         "m_GuidSerialized": "10404008-ea89-454d-aaef-d7c384d6e826"
     },
-    "m_Name": "_SecondNormal",
+    "m_Name": "SecondNormal",
     "m_DefaultReferenceName": "Texture2D_b0859a3203b540349d291f069583fe68",
-    "m_OverrideReferenceName": "",
+    "m_OverrideReferenceName": "_SecondNormal",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
     "overrideHLSLDeclaration": false,
@@ -4914,9 +4914,9 @@
     "m_Guid": {
         "m_GuidSerialized": "265d51fa-1ff2-49b3-802d-c11a6d781d00"
     },
-    "m_Name": "_Sharpness",
+    "m_Name": "Sharpness",
     "m_DefaultReferenceName": "Vector1_cc3d25de1cb845b29b062c012a6cb417",
-    "m_OverrideReferenceName": "",
+    "m_OverrideReferenceName": "_Sharpness",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
     "overrideHLSLDeclaration": false,
@@ -5611,9 +5611,9 @@
     "m_Guid": {
         "m_GuidSerialized": "2d708cd1-daa1-4b08-9ab0-d511ff480439"
     },
-    "m_Name": "_HighDepthColor",
+    "m_Name": "HighDepthColor",
     "m_DefaultReferenceName": "Color_ef3b245f45bb4de88d70c39583690e2b",
-    "m_OverrideReferenceName": "",
+    "m_OverrideReferenceName": "_HighDepthColor",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
     "overrideHLSLDeclaration": false,

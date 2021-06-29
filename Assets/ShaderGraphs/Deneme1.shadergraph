@@ -1120,7 +1120,7 @@
     },
     "m_Name": "TrailMap",
     "m_DefaultReferenceName": "Texture2D_1d9ef931504b44e38002430c087bc81e",
-    "m_OverrideReferenceName": "",
+    "m_OverrideReferenceName": "_TrailMap",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
     "overrideHLSLDeclaration": false,
@@ -2034,9 +2034,9 @@
     "m_Guid": {
         "m_GuidSerialized": "bdea25b2-6df7-4c1e-8391-45b7bcaf48aa"
     },
-    "m_Name": "Trail Texture",
+    "m_Name": "TrailTexture",
     "m_DefaultReferenceName": "Texture2D_4baf924f8af94eee9d020eee6a2a64ae",
-    "m_OverrideReferenceName": "",
+    "m_OverrideReferenceName": "_TrailTexture",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
     "overrideHLSLDeclaration": false,
@@ -2850,9 +2850,9 @@
     "m_Guid": {
         "m_GuidSerialized": "4d34a852-ebdc-46fd-80ae-732e435194d3"
     },
-    "m_Name": "Trail Belnding Cap",
+    "m_Name": "TrailBlendingCap",
     "m_DefaultReferenceName": "Vector1_8fc44136181548b1a61830a7374c2d99",
-    "m_OverrideReferenceName": "",
+    "m_OverrideReferenceName": "_TrailBlendingCap",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
     "overrideHLSLDeclaration": false,
@@ -3148,9 +3148,9 @@
     "m_Guid": {
         "m_GuidSerialized": "65419fea-c9da-41b9-868b-86fddcfed400"
     },
-    "m_Name": "Main Texture",
+    "m_Name": "MainTexture",
     "m_DefaultReferenceName": "Texture2D_adb9dd6196d34473a508ceec9fa46189",
-    "m_OverrideReferenceName": "",
+    "m_OverrideReferenceName": "_MainTexture",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
     "overrideHLSLDeclaration": false,
@@ -3188,7 +3188,7 @@
     },
     "m_Name": "HeightMultiplier",
     "m_DefaultReferenceName": "Vector1_b104c6d9d9f243f6b9ea0b239ac4d805",
-    "m_OverrideReferenceName": "",
+    "m_OverrideReferenceName": "_HeightMultiplier",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
     "overrideHLSLDeclaration": false,
@@ -3209,9 +3209,9 @@
     "m_Guid": {
         "m_GuidSerialized": "81b2a3e4-3bac-4582-ae1b-164ebee2703b"
     },
-    "m_Name": "Trail Color",
+    "m_Name": "TrailColor",
     "m_DefaultReferenceName": "Color_b7b96a155dc546ae80737a5b54359180",
-    "m_OverrideReferenceName": "",
+    "m_OverrideReferenceName": "_TrailColor",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
     "overrideHLSLDeclaration": false,
@@ -3246,9 +3246,9 @@
     "m_Guid": {
         "m_GuidSerialized": "5f75dd0e-6424-44f4-8f19-a68f22c31ee2"
     },
-    "m_Name": "Trail Radius",
+    "m_Name": "TrailRadius",
     "m_DefaultReferenceName": "Vector1_b976c8079c04415cb7c216741d1d5245",
-    "m_OverrideReferenceName": "",
+    "m_OverrideReferenceName": "_TrailRadius",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
     "overrideHLSLDeclaration": false,

@@ -965,9 +965,9 @@
     "m_Guid": {
         "m_GuidSerialized": "c70f595b-03e1-4e40-a619-91cc9732b884"
     },
-    "m_Name": "_MainColor",
+    "m_Name": "MainColor",
     "m_DefaultReferenceName": "Color_80e50ece0b514bc3afbf24cf75f0c08e",
-    "m_OverrideReferenceName": "",
+    "m_OverrideReferenceName": "_MainColor",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
     "overrideHLSLDeclaration": false,
@@ -1114,9 +1114,9 @@
     "m_Guid": {
         "m_GuidSerialized": "0e393fd8-2c18-4096-bdef-4414ed7def12"
     },
-    "m_Name": "_EmissionEdge",
+    "m_Name": "EmissionEdge",
     "m_DefaultReferenceName": "Vector1_972b7710ad354cf792dc56abf18ea53a",
-    "m_OverrideReferenceName": "",
+    "m_OverrideReferenceName": "_EmissionEdge",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
     "overrideHLSLDeclaration": false,
@@ -1570,9 +1570,9 @@
     "m_Guid": {
         "m_GuidSerialized": "977ca827-f131-467a-9b4d-6d9edd87f4f9"
     },
-    "m_Name": "_NoiseScale",
+    "m_Name": "NoiseScale",
     "m_DefaultReferenceName": "Vector1_c8589f6eea734a96aa40b9e688501b9d",
-    "m_OverrideReferenceName": "",
+    "m_OverrideReferenceName": "_NoiseScale",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
     "overrideHLSLDeclaration": false,
@@ -1849,9 +1849,9 @@
     "m_Guid": {
         "m_GuidSerialized": "7b3aad68-4525-450c-894b-0a3e401c95e1"
     },
-    "m_Name": "_Smothness",
+    "m_Name": "Smothness",
     "m_DefaultReferenceName": "Vector1_f9ea600b4211444fa21370a607d76a8a",
-    "m_OverrideReferenceName": "",
+    "m_OverrideReferenceName": "_Smothness",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
     "overrideHLSLDeclaration": false,
@@ -1872,9 +1872,9 @@
     "m_Guid": {
         "m_GuidSerialized": "7b57a6af-b034-4c5f-b966-9d3aebcf1437"
     },
-    "m_Name": "_EdgeColor",
+    "m_Name": "EdgeColor",
     "m_DefaultReferenceName": "Color_fa62b81ce41e4e06957725acdf00a6de",
-    "m_OverrideReferenceName": "",
+    "m_OverrideReferenceName": "_EdgeColor",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
     "overrideHLSLDeclaration": false,
@@ -1896,9 +1896,9 @@
     "m_Guid": {
         "m_GuidSerialized": "6393bb96-006d-4866-b018-41cba6809f9c"
     },
-    "m_Name": "_DissolveTime",
+    "m_Name": "DissolveTime",
     "m_DefaultReferenceName": "Vector1_fe8c1f2cd0ba41aba7a3e39b852c54d4",
-    "m_OverrideReferenceName": "",
+    "m_OverrideReferenceName": "_DissolveTime",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
     "overrideHLSLDeclaration": false,

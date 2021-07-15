@@ -5,6 +5,8 @@ Dissolve effect via shader graph added
 
 FireWorks witf VFX Graph added
 
+Camp Fire added with particle system in "FireScene" 
+Reference: https://www.youtube.com/watch?v=G0R7MIbX3MU
 
 
 References: 

@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Logs
+  m_Shader: {fileID: -6465566751694194690, guid: 2ded0c813a4974f4f9b43369c93551a9, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - BaseColorMap:
+        m_Texture: {fileID: 2800000, guid: bf69fe7bc0f403c4a87f786040e07ecb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - FlowMap:
+        m_Texture: {fileID: 2800000, guid: 112e0cffba3dd2240bda5998e35aaf66, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - LavaDetailMap:
+        m_Texture: {fileID: 2800000, guid: 77760d890f70caa47a9a6627fc70e4ec, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - RandTimeMap:
+        m_Texture: {fileID: 2800000, guid: 77760d890f70caa47a9a6627fc70e4ec, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_3C9B0B85:
+        m_Texture: {fileID: 2800000, guid: d4041a0d87bcddd43b9caf926962dcbb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Albedo:
+        m_Texture: {fileID: 2800000, guid: ad8fea9742242d747906f658b10c5a20, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Emission:
+        m_Texture: {fileID: 2800000, guid: ec595f2e7e44a0f4587492df8e0b4860, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: fdfa9bd6ca9080041bb1c928bc5c9bfa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - FlowMapIntensity: 0.8
+    - FlowScrollPeriod: 5
+    - LavaDetailTiling: 7
+    - Lava_Crease_Exponent: 18
+    - RandTimeScale: 5
+    - Smoothness: 0.2
+    - _Cutoff: 0.5
+    - _EmissiveMin: 0.5
+    - _Float0: 1
+    - _NormalStrength: 1
+    - __dirty: 0
+    m_Colors:
+    - BaseColorMapUVTile: {r: 4, g: 4, b: 0, a: 0}
+    - BaseScroll: {r: 0, g: 0.02, b: 0, a: 0}
+    - EmissionColor: {r: 196351, g: 50372.77, b: 18504.28, a: 0}
+    - FlowUVTile: {r: 2, g: 2, b: 0, a: 0}
+    - WaterColorA: {r: 0.08490565, g: 0.04261914, b: 0.03484337, a: 0}
+    - WaterColorB: {r: 0.001201498, g: 0.009433985, b: 0.009433985, a: 0}
+    - _Color0: {r: 47.937256, g: 47.937256, b: 47.937256, a: 0}
+    - _Emissiontint: {r: 47.937256, g: 47.937256, b: 47.937256, a: 0}
+    - _Tint: {r: 1, g: 1, b: 1, a: 0}
+  m_BuildTextureStacks: []

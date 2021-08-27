@@ -11,7 +11,7 @@ Reference: https://www.youtube.com/watch?v=G0R7MIbX3MU
 Cartoon Water added:
 Reference: https://youtu.be/Vg0L9aCRWPE
 
-
+Blood VFX reference: https://www.youtube.com/watch?v=IVj7-usBxHo 
 
 References: 
 https://www.youtube.com/channel/UCxgl5jsRA0Pl8iHFUOMcEdw
